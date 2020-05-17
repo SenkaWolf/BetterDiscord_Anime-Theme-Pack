@@ -1,0 +1,15 @@
+{
+	"changelog": {
+		"currentversion": "3.0.1"
+	},
+	"settings": {
+		"addUserID": false,
+		"disableForBots": true,
+		"includeColorless": false,
+		"showInChat": false,
+		"showInMemberList": true,
+		"showOwnerRole": false,
+		"useBlackFont": false,
+		"useOtherStyle": true
+	}
+}
