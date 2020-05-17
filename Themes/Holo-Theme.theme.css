@@ -1,8 +1,8 @@
 /**
- * @name Ranka Okami Theme
+ * @name Holo Theme
  * @author Senka Wolf | Ryan#8282
- * @version 1.0.1
- * @description Ranka Okami Chracter Them From The Anime Murenase! Seton Gakuen (Seton Academy: Join the Pack!) | Base theme: Frosted Glass by Gibbu#1211
+ * @version 1.0.0
+ * @description Holo Chracter Them From The Anime Ookami to Koushinryou (Spice and Wolf) | Base theme: Frosted Glass by Gibbu#1211
  * @invite CyszwsA
  * @authorId 170854083840704512
  * @source https://github.com/SenkaWolf/BetterDiscord_Anime-Theme-Pack
@@ -20,23 +20,23 @@
 
 :root {
 
---background-image: url('https://i.imgur.com/dpkX5Xi.png');
+--background-image: url('https://i.imgur.com/VJjBzYo.png');
 --background-image-blur: 1px;
---popout-modal-image: url('https://i.imgur.com/dpkX5Xi.png');
+--popout-modal-image: url('https://i.imgur.com/VJjBzYo.png');
 --popout-modal-blur: 5px;
 --serverlist-brightness: 0.66;
 --left-brightness: 0.72;
 --middle-brightness: 0.6;
 --right-brightness: 0;
 --popout-modal-brightness: 0.7;
---gradient-primary: 253,131,168;
---gradient-secondary: 253,231,244;
+--gradient-primary: 128,50,30;
+--gradient-secondary: 234,161,117;
 --gradient-direction: 320deg;
---tint-colour: 253,131,168;
+--tint-colour: 128,50,30;
 --tint-brightness: 0;
 --window-padding: 0px; /*Default 20 */
 --window-roundness: 10px;
---scrollbar-colour: rgba(253,131,168,0.16);
+--scrollbar-colour: rgba(128,50,30,0.16);
 --link-colour: #00b0f4;
 --show-gift-gif-buttons: block;
 --font: 'Nunito';
