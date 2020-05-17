@@ -2,7 +2,7 @@
 
 # How To Get This Theme To Work
 - Download [BandagedBD](https://github.com/rauenzi/BetterDiscordApp) then install.
-- Download [Anime Theme Pack]()
+- Download [Anime Theme Pack](https://github.com/SenkaWolf/BetterDiscord_Anime-Theme-Pack/releases/latest)
 - Open Discord goto settings then goto the BandagedBD section.
 - Click on Themes then click on Open Theme Folder.
 - Drag the files with `.theme.css` in the name into the folder you just opened from the above step.
