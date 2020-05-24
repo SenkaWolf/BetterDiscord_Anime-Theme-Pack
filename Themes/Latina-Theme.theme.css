@@ -35,7 +35,7 @@
 --tint-colour: 103,58,183;
 --tint-brightness: 0;
 --window-padding: 0px; /*Default 20 */
---window-roundness: 10px;
+--window-roundness: 0px; /*Default 10 */
 --scrollbar-colour: rgba(211,208,229,0.16);
 --link-colour: #00b0f4;
 --show-gift-gif-buttons: block;
