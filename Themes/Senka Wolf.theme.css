@@ -1,0 +1,82 @@
+/**
+* @name Senka Wolf
+* @author Purple Wizard
+* @authorLink https://github.com/GoldenLys
+* @version 3.7
+* @invite SBuYeHh
+* @description An amazing RGB theme with full customization included, made by Purple Wizard.
+* @source https://github.com/GoldenLys/BetterDiscord-Elysia
+* @website https://goldenlys.github.io/ThemeGen
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/2.css");
+
+/* PLUGINS */
+
+@import url("https://fonts.googleapis.com/css?family=Quicksand&amp;display=swap");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/GIBBUHSLFIX.css");
+
+
+/* CONFIG */
+
+:root {
+--title: "Senka Wolf";
+--background: url("https://i.imgur.com/VJjBzYo.png");
+--font: "Quicksand";
+--time: 10s;
+--Online: rgb(0 255 136);
+--Idle: rgb(0 99 156);
+--Unavailable: rgb(228 15 0);
+--Offline: rgb(90 95 100);
+--StreamingColor: rgb(78 0 180);
+--grey: rgb(77 70 85);
+--darkgrey: rgb(18 18 18);
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--logo: url("https://senkawolf.com/images/senka500x500.png");
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "Hey! Wanna have some fun.. Join US !";
+--AddNewServer: "➕ Add a new server";
+--Close: "🔴";
+--Resize: "🔵";
+--Hide: "⚫";
+--ProfilePic: "Watch me";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "🙂";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "purpies";
+--WelcomeMessage: "✨ Welcome to ELYSIA, designed by Purple Wizard.";
+--Watermark: "Made with 💖 by Purple Wizard";
+--EditStatus: "Put another status";
+--Folders: "📁";
+--C1: rgb(115 124 187);
+--C2: rgb(115 79 187);
+--C3: rgb(0 0 0);
+--C4: rgb(0 0 0);
+--C5: rgb(0 0 0);
+--C6: rgb(0 0 0);
+--C7: rgb(0 0 0);
+--C8: rgb(0 0 0);
+--C9: rgb(0 0 0);
+--C10: rgb(0 0 0);
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: var(--darkgrey5);
+--ServerSize: 25px;
+--WriteMessage: "Write a message...";
+--ListenAlong: "Listen Along";
+--ServerColumns: 1;
+--Highlighted: var(--grey5);
+--ActiveBox: rgb(235 235 235);
+--Announcement: "📣";
+--Stage: "📺";
+--grey5: rgb(77 70 85 / 50%);
+--darkgrey5: rgb(18 18 18 / 75%);
+} /* Made with Purple Wizard theme generator v3.7, have fun ! */
